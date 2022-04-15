@@ -2,7 +2,7 @@
 - 👀 I’m interested in RPA, Data Science and AI/ML.
 - 🌱 I’m currently learning EDA
 - 💞️ I’m looking to collaborate on EDA
-- 📫 How to reach me knowmehacker@gmail.com
+- 📫 How to reach me arnab.pani1@gmail.com
 
 <!---
 arnabpani/arnabpani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
